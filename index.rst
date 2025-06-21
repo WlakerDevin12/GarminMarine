@@ -1,5 +1,15 @@
 How the Garmin Marine Update Improves Safety and Navigation
+------------------------------------------------------------------
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+.. image:: https://honeywell-gps-update.readthedocs.io/en/latest/_images/corosgpsupdate.jpg
+   :alt: My Project Logo
+   :width: 350px
+   :align: center
+   :target: https://aclogportal.com/
 
+Peacock TV, the popular streaming platform
 
 With its most recent Garmin Marine update, Garmin, a company known for its innovative navigation technology, has raised the standard for marine electronics once more. Modern features in this latest update revolutionize how professionals and boaters approach marine safety and navigation. Whether you're a professional in the maritime industry, a recreational boater, or an enthusiastic sailor, Garmin's innovations provide unmatched accuracy, dependability, and efficiency.
 This update demonstrates Garmin's dedication to offering reliable and user-focused solutions for the maritime community, from better chart plotting to improved safety integrations. We'll go over the main features of the Garmin Marine update, its advantages for safety and navigation, and how it improves marine operations in general below.  
